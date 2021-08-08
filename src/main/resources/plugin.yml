@@ -1,0 +1,7 @@
+name: PlayerParticles
+version: ${project.version}
+main: playerparticles.PlayerParticles
+api-version: 1.17
+commands:
+  spiral:
+    description: spiral woo
